@@ -1,5 +1,7 @@
 # Smart DOL Motor Pump Starter Controller
 
+### [UPDATE] I have uploaded an optimized version of this project [here](https://github.com/costomato/motor-pump-controller-v2)
+
 # Table of Contents
 
 - [Overview](#overview)
